@@ -1,2 +1,3 @@
 # Test-Will-Delete
-2.[Nishan Baniya](https://github.com/rnb88)
+1. [Manjil Koirala](https://github.com/manjilkoirala)
+2. [Nishan Baniya](https://github.com/rnb88)
